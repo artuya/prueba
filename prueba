@@ -1,0 +1,218 @@
+# EXTM3U
+
+
+#EXTINF: -1, tvg-logo = "https://onceninasyninos.tv/wp-content/uploads/2019/06/LOGO-ON.png", UNA VEZ NIÑOS
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=3315&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg", AZTECA UNO
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=7&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://myfopinion.files.wordpress.com/2016/08/myfastopinion-myfopnion-televisa-nuevo-logo-mexico-new.jpg", LAS ESTRELLAS
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=17&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png", CANAL 5
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=20&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://2.bp.blogspot.com/-TSJd0_gBdSc/W0e65rCFrlI/AAAAAAAAg58/2KFz7011L1oGkjf6S_-nj2WtFHQa_3ypQQ16cBGA.pca 7/spcab%2cBGAs/
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=21&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png", NUEVE9
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=24&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://commons.wikimedia.org/wiki/File:IMAGEN_TV.jpg", IMAGEN TV
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=2298&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png", MULTIMEDIOS 6
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=2305&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://commons.wikimedia.org/wiki/File:Canal_Space.PNG", ESPACIO
+http://ipeteve.com/php/SR_REGIO_381/tp.php?c=129&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA +
+http://ipeteve.com/php/SR_REGIO_381/tp.php?c=121&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=335&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://www.verlatele.net/wp-content/uploads/2020/06/canal-golden-plus.jpg", GOLDEN PLUS
+http://ipeteve.com/php/SR_REGIO_381/tp.php?c=122&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1280px-Canal_Golden_logo.svg.png", DORADO
+http://ipeteve.com/php/SR_REGIO_381/tp.php?c=123&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=126&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=128&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-sa satellite-television-capri-sun-logo -television-text-logo.png ", AMC
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=131&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png", ESTUDIO UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=132&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png", PELÍCULA Y ARTE
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=137&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png", FXM
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=138&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Series_HD.png", SERIE FOX
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=139&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://forounivers.com/uploads/monthly_2017_01/large.586f31e5f033c_Mrbido_TV(1).png.bbcc1dabc07a3bd73b4b2dc73d3441fd.png", MORBIDO
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=140&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fox_Movies_logo.svg/1280px-Fox_Movies_logo.svg.png", FOX MOVIES
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=146&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://www.foromedios.com/uploads/monthly_2018_12/large.243211937_Sinttulo-3.png.d3bb5f3d64e5a181cc0caa2491d56231.png", CINECANAL
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=149&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png", CINEMAX
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=158&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png", PARAMOUNT CHANNEL
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=1726&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://www.pikpng.com/pngl/m/218-2186546_tbs-logo-png-tbs-2015-clipart.png", TBS
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=81&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://forounivers.com/uploads/monthly_2017_03/large.58ca099958cf2_a.png.5324ca4355112d0398127d724539e1bd.png", A +
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=2316&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://c3.klipartz.com/pngpicture/613/298/sticker-png-tv-channel-icons-pack-tooncast-black.png", TOON CAST
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=108&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://img2.freepng.es/20180627/ust/kisspng-discovery-kids-logo-discovery-inc-television-cha-discovery-5b33c6ed2920e2.2393143015301199171685.jpg", DISCOVERY KIDS
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=109&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=110&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=111&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "http://1000marcas.net/wp-content/uploads/2020/03/Cartoon-Network-Logo-1992.jpg", RED DE DIBUJOS ANIMADOS
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=112&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://i.pinimg.com/originals/e9/f9/ec/e9f9ec56fff1032b8beb3fb84ad3e8e5.png", CANAL DE DISNEY
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=113&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", BOOMERANG
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=115&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://cdn.freelogovectors.net/wp-content/uploads/2019/02/babytvlogo.png", BABY TV
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=116&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png", NICK JR
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=117&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Disney_Jr._logo.png/1024px-Disney_Jr._logo.png", DISNEY JR
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=118&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/1200px-Nicktoons_UK_Logo_2010.svg.png", NICK TOONS
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=1708&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://img2.freepng.es/20181109/icl/kisspng-clip-art-babyfirsttv-television-channel-babyfirst-babyfirst-wikipedia-lobster-house-5be5b50f0566b7.627968381541780751022 .jpg ", BEBÉ PRIMERO
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=1984&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png", NICK 2
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://www.foromedios.com/uploads/monthly_2017_07/595d9ce41a6e7_NatGeoKids1.png.cf38a3ca594091de3a4c90a772ce2374.png", NAT GEO KIDS
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=2373&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://selectra.mx/sites/default/files/images/logos/bitme-350x183.png", BIT ME
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://multipress.com.mx/wp-content/uploads/2019/03/image003-6.png", TELEMUNDO INTERNACIONAL
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=85&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://e7.pngegg.com/pngimages/305/96/png-clipart-fox-broadcasting-company-logo-television-fox-international-channels-television-program -television-text.png ", FOX
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=46&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=48&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "http://assets.stickpng.com/images/58483b6d84e35b574e745381.png", WARNER
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=52&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://img2.freepng.es/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg", MI
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=55&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://img2.freepng.es/20180422/cpw/kisspng-universal-channel-television-channel-syfy-logo-universal-logo-5adcadad2a5f73.1784917815244118211736.jpg", CANAL UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=57&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png", SYFY
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=59&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png", FX
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=60&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png", AXN
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=64&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png", A y E
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=62&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png", UNICABLE
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=66&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1200px-Logo_Glitz.svg.png", GLITZ
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=76&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG", FOX LIFE
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=77&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png", COMEDY CENTRAL
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=340&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png", DISTRITO COMEDIA
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=78&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png", TRU TV
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=79&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://e7.pngegg.com/pngimages/598/22/png-clipart-tlnovelas-televisa-telenovela-television-univision-others-misiverse-television.png", TELENOVELAS
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=83&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png", DE POR VIDA
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=94&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png", FOX HD
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=201&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://www.clipartmax.com/png/middle/141-1418660_warner-channel-hd-logo.png", WARNER HD
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=205&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/6b/Universal_TV_HD_Logo_2018.png", UNIVERSAL HD
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=207&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png", FX HD
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=209&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png", ESPN +
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=167&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://w7.pngwing.com/pngs/877/31/png-transparent-bristol-espn-inc-roku-watchespn-betis-television-text-trademark.png ", ESPN
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=168&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=169&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png", FOX SPORT
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=170&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://img2.freepng.es/20180614/boo/kisspng-fox-sports-networks-fox-sports-2-fox-entertainment-bbc-radio-2-5b22dbb1db2cf0 .9001574515290111218978.jpg ", FOX SPORT 2
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=172&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png", FOX SPORT 3
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=178&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png", TUDN
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=174&p=3&k=srregio&f=.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png", CLARO SPORT
+http://ipeteve.com/php/SR_REGIO_0965/tp.php?c=2564&p=3&k=srregio&f=.m3u8
